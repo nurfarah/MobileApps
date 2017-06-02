@@ -24,3 +24,10 @@ In this project, we use **Google Map API** to find out the mosque location and t
 * Go to BUILD tab and build the app in the desired platform
 * Run it in a real device or emulator (You can download App Review to run it in your device)
 
+## Group Members
+
+1. Uswah Hasanah Binti Raza (B031410276)
+1. Nur Farah Syuhada Binti Mohamad Saadon (B031410269)
+1. Nur Syuhada' Binti Azmi (B031410333)
+1. Nor Amanina Binti Kasimil (B031410283)
+
